@@ -1,0 +1,24 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "scrape websites blackhat and 5euro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devon Dunn",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fast-csv": "^2.4.1",
+    "request": "^2.87.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevonD123/simpleForumScrape.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DevonD123/simpleForumScrape/issues"
+  },
+  "homepage": "https://github.com/DevonD123/simpleForumScrape#readme"
+}
